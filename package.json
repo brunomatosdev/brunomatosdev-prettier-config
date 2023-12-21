@@ -1,0 +1,27 @@
+{
+  "name": "@brunomatosdev/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration used by BrunoMatosDev.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node createPrettierConfig.js && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunomatosdev/brunomatosdev-prettier-config.git"
+  },
+  "author": "BrunoMatosDev",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/brunomatosdev/brunomatosdev-prettier-config/issues"
+  },
+  "homepage": "https://github.com/brunomatosdev/brunomatosdev-prettier-config#readme",
+  "files": [
+    "createPrettierConfig.js"
+  ]
+}
