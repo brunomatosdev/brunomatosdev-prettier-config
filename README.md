@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 vbnet
 
 
-This README now includes information about the automatic creation of the `.prettierrc` file and provides instructions on how to use the shared configuration in projects.
+This README now includes information about the automatic creation of the `.prettierrc` file and provides instructions on how to use the shared configuration in projects.# brunomatosdev-prettier-config
